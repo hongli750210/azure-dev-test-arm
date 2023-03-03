@@ -13,6 +13,7 @@ import (
 
 	// Importing for infrastructure provider plugin registrations
 
+	_ "github.com/azure/azure-dev/cli/azd/pkg/infra/provisioning/arm"
 	_ "github.com/azure/azure-dev/cli/azd/pkg/infra/provisioning/bicep"
 	_ "github.com/azure/azure-dev/cli/azd/pkg/infra/provisioning/terraform"
 	"github.com/azure/azure-dev/cli/azd/pkg/ioc"
