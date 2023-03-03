@@ -7,7 +7,7 @@
 //
 // require(
 //
-//	_ "github.com/azure/azure-dev/cli/azd/pkg/infra/provisioning/arm"
+//	_ "github.com/zedy-wj/azure-dev-test-arm/tree/main/cli/azd/pkg/infra/provisioning/arm"
 //
 // )
 package arm
