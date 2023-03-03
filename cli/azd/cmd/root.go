@@ -15,7 +15,7 @@ import (
 	_ "github.com/azure/azure-dev/cli/azd/pkg/infra/provisioning/bicep"
 	_ "github.com/azure/azure-dev/cli/azd/pkg/infra/provisioning/terraform"
 	"github.com/azure/azure-dev/cli/azd/pkg/ioc"
-	_ "github.com/hongli750210/azure-dev-test-arm/blob/try-to-fix-20230302/cli/azd/pkg/infra/provisioning/arm"
+	_ "github.com/hongli750210/azure-dev-test-arm/tree/try-to-fix-20230302/cli/azd/pkg/infra/provisioning/arm"
 
 	"github.com/azure/azure-dev/cli/azd/internal"
 	"github.com/azure/azure-dev/cli/azd/internal/telemetry"
