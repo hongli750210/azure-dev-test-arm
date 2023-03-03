@@ -1,6 +1,8 @@
 name: webapp
 metadata: 
   template: azd-test/webapptest@v1
+infra:
+  provider: arm
 services:
   web:
     project: src/dotnet/

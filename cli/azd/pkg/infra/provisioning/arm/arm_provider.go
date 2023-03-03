@@ -7,7 +7,7 @@
 //
 // require(
 //
-//	_ "github.com/hongli750210/azure-dev-test-arm/blob/try-to-fix-20230302/cli/azd/pkg/infra/provisioning/arm"
+//	_ "github.com/hongli750210/azure-dev-test-arm/tree/try-to-fix-20230302/cli/azd/pkg/infra/provisioning/arm"
 //
 // )
 package arm
